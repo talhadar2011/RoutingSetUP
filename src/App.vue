@@ -7,7 +7,13 @@
   </nav>
   <router-view/>
 </template>
-
+<script>
+export default {
+  methods:{
+    
+  }
+}
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
